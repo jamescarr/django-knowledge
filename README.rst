@@ -58,3 +58,5 @@ Screen Shots:
 
 .. image:: https://github.com/zapier/django-knowledge/raw/master/docs/images/tests.png
    :alt: 100% coverage on tests
+
+TEST
